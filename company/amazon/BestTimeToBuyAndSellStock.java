@@ -33,4 +33,65 @@ public class BestTimeToBuyAndSellStock {
         
         return max;
     }
+
+     public void veryLongMethod(int input) {
+        System.out.println("Starting very long method...");
+        int counter = 0;
+        // Adding lots of lines to exceed LOC > 50
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        counter += 1; System.out.println("Counter: " + counter);
+        System.out.println("Finished very long method with counter: " + counter);
+    }
+
 }
