@@ -55,4 +55,21 @@ public class GameOfLife {
         
         return lives;
     }
+
+    
+    public void deeplyNestedMethod(int input) {
+        if (input > 0) {  // Level 1
+            for (int i = 0; i < input; i++) {  // Level 2
+                while (i % 2 == 0) {  // Level 3
+                    if (i > 5) {  // Level 4
+                        if (i < 10) {  // Level 5
+                            if (i == 8) {  // Level 6
+                                System.out.println("Deeply nested!");
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
 }
